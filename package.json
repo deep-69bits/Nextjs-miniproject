@@ -9,12 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
     "next": "12.2.4",
+    "nodemon": "^2.0.19",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
     "eslint": "8.21.0",
     "eslint-config-next": "12.2.4"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep-69bits/Nextjs-miniproject.git"
+  },
+  "author": "deep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep-69bits/Nextjs-miniproject/issues"
+  },
+  "homepage": "https://github.com/deep-69bits/Nextjs-miniproject#readme"
 }
